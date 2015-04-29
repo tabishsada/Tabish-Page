@@ -9,6 +9,5 @@ twitter_username: tabish_sada
 github_username:  tabishsada
 
 lsi: false
-pygments: true
 # Build settings
 markdown: kramdown
